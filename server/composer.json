@@ -10,8 +10,20 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "anhskohbo/no-captcha": "^3.6",
+        "bacon/bacon-qr-code": "^3.0",
+        "barryvdh/laravel-debugbar": "^3.14",
+        "donatj/phpuseragentparser": "^1.10",
+        "flutterwavedev/flutterwave-v3": "^1.0",
+        "guzzlehttp/guzzle": "^7.9",
+        "intervention/image": "^3.9",
         "laravel/framework": "^11.31",
-        "laravel/tinker": "^2.9"
+        "laravel/tinker": "^2.9",
+        "league/omnipay": "^3.2",
+        "omnipay/stripe": "^3.2",
+        "php-curl-class/php-curl-class": "^11.0",
+        "pragmarx/google2fa": "^8.0",
+        "stripe/stripe-php": "^16.4"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
